@@ -20,6 +20,7 @@ html:before {
   background-size:cover;
   background-position:center top;
   display: block;
+    text-align:center;
   background-image: url('https://scontent-sin6-1.xx.fbcdn.net/v/t1.0-9/17796308_177870622730483_7463376706652682987_n.jpg?oh=3bf1f66b89558023dec0cbd5445cfa81&oe=594DB979');
   width: 100%;
   height: 100%;
@@ -35,6 +36,7 @@ html:before {
   position:absolute;
   bottom:0;
   width:100%;
+  margin-left:20px;
   text-align:center;
   color:lime;
 }
